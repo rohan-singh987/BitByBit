@@ -1,0 +1,145 @@
+.com2background{
+    background: conic-gradient(at 0% 110%, rgba(0, 0, 0, 0.2) 0deg, rgba(255, 255, 255, 0.95) 25deg 335deg, rgba(20, 20, 20, 0.2) 360deg);
+    
+
+    width: 50%;
+    align-items: flex-end;
+}
+
+.box{
+
+width: 250px;
+height: 250px;
+
+background: linear-gradient(90deg, #C6CED1 0%, #FDFDFD 100%);
+border: 5px solid #FFFFFF;
+box-sizing: border-box;
+box-shadow: 10px 10px 20px #b833eb;
+border-radius: 15px;
+}
+
+.Com4{
+    background: linear-gradient(96.45deg, #070707 0.9%, #413e3e 98.64%);;
+    padding: 100px 0px !important;
+  }
+  
+  .circle-container-consultancy {
+    /* position: relative; */
+    /* border-radius: 51%; */
+    /* border: 30px solid #ffffff; */
+    /* box-sizing: border-box; */
+    filter: drop-shadow(10px 6px 5px #b833eb);
+    width: 462px;
+    height: 462px;
+  }
+  
+  .circle-container-consultancy > div {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 10em;
+    height: 8em;
+    margin: -4em !important;
+  }
+  .circle-container > div > .Com4-diamond {
+    display: block;
+    width: 100%;
+  }
+  .deg45 {
+    transform: rotate(45deg) translate(12em) rotate(-45deg);
+  }
+  .deg135 {
+    transform: rotate(135deg) translate(12em) rotate(-135deg);
+  }
+  .deg225 {
+    transform: rotate(225deg) translate(12em) rotate(-225deg);
+  }
+  .deg315 {
+    transform: rotate(315deg) translate(12em) rotate(-315deg);
+  }
+  
+  .Com4-diamond {
+    /* position: absolute; */
+    width: 180px;
+    height: 180px;
+  
+    background: linear-gradient(271.1deg, #E2BBf0 -6.21%, #6ca0bc 96.12%);
+    border: 5px solid #ffffff;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    transform: rotate(45deg);
+  }
+  
+  .centereeeee {
+    background: linear-gradient(0deg, #ffffff, #ffffff);
+    box-shadow: rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    transform: rotate(0deg);
+  }
+  
+  .model-para {
+    width: 40%;
+  
+    padding: 0% !important;
+    display: flex;
+    flex-direction: column;
+    margin-right: 100px !important;
+    justify-content: center;
+  }
+  
+  .model-para > h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 37px;
+    /* or 132% */
+  
+    text-transform: uppercase;
+  
+    color: #f9fafa;
+  }
+  
+  .model-para > p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+  
+    color: #fafafa;
+  }
+
+  .Consultancydia > h2{
+    transform: rotate(-10deg);
+    transform: rotate(-45deg);
+    margin-left: -15px;
+    padding-top: 35px !important;
+    margin-right: 20px !important;
+  }
+  
+  .Consultancydia > p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    /* or 137% */
+  
+    text-align: center;
+  
+    color: #0a0a0a;
+    transform: rotate(-10deg);
+    transform: rotate(-45deg);
+    margin-left: 5px;
+    padding-top: 8px !important;
+    margin-right: -10px !important;
+  }
+  
+  .Consultancyc > p {
+    color: #3e7089;
+  }
+  
