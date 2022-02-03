@@ -19,7 +19,7 @@ const Com3 = () => {
   </div>
       <div class=" flex-wrap -m-3"> 
   <div class=" w-96  flex flex-col p-3">
-    <div class=" bg-slate-600 text-white drop-shadow-2xl rounded-lg shadow-2xl  flex-1 flex flex-col">
+    <div class=" bg-slate-600 text-white drop-shadow-2xl rounded-lg shadow-4xl  flex-1 flex flex-col">
       <div class="bg-cover h-72" >
       <img src={img} alt="" className="p-9 mx-7" />
       </div>
