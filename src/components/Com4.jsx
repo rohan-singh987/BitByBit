@@ -15,18 +15,18 @@ const Com4 = () => {
 
 
 
-            <div class='circle-container-consultancy '>
-                <div className="centeeeer"><div className="Com4-diamond centereeeee Consultancydia Consultancyc"></div></div>
-                <div className="deg45"><div className="Com4-diamond Consultancydia"> <h2 className="text-xl font-bold">Lorem Ipsum</h2>
+            <div class='circle-container '>
+                <div className="centeeeer"><div className="Com4-diamond centereeeee com4box"></div></div>
+                <div className="deg45"><div className="Com4-diamond com4box"> <h2 className="text-xl font-bold">Lorem Ipsum</h2>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 </div></div>
-                <div className="deg225 rotate-45"><div className="Com4-diamond Consultancydia"><h2 className="text-xl font-bold">Lorem Ipsum</h2>
+                <div className="deg225 rotate-45"><div className="Com4-diamond com4box"><h2 className="text-xl font-bold">Lorem Ipsum</h2>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 </div></div>
-                <div className="deg135"><div className="Com4-diamond Consultancydia"><h2 className="text-xl font-bold">Lorem Ipsum</h2>
+                <div className="deg135"><div className="Com4-diamond com4box"><h2 className="text-xl font-bold">Lorem Ipsum</h2>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 </div></div>
-                <div className="deg315"><div className="Com4-diamond Consultancydia"><h2 className="text-xl font-bold">Lorem Ipsum</h2>
+                <div className="deg315"><div className="Com4-diamond com4box"><h2 className="text-xl font-bold">Lorem Ipsum</h2>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 </div></div>
             </div>

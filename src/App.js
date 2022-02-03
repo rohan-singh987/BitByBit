@@ -4,6 +4,7 @@ import Com1 from './components/Com1';
 import Com2 from './components/Com2';
 import Com3 from './components/Com3';
 import Com4 from './components/Com4';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -17,6 +18,8 @@ function App() {
       <Com3/>
 
       <Com4/>
+
+      <Footer/>
     </div>
   );
 }
