@@ -9,7 +9,7 @@ const Com2 = () => {
     </div>
       <div className="text-white com2Text">
 
-      <h1 className="font-bold text-2xl">
+      <h1 className="font-bold text-2xl ">
       Lorem Ipsum
       </h1>
 

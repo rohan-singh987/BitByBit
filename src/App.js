@@ -5,6 +5,7 @@ import Com2 from './components/Com2';
 import Com3 from './components/Com3';
 import Com4 from './components/Com4';
 import Footer from './components/Footer';
+import Carousel from './components/Carousel';
 
 function App() {
   return (
@@ -16,6 +17,8 @@ function App() {
       <Com2/>
 
       <Com3/>
+
+      <Carousel/>
 
       <Com4/>
 
