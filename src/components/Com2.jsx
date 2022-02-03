@@ -2,15 +2,14 @@ import React from 'react';
 import './Com2.css'
 
 const Com2 = () => {
-  return <div className="com2background flex flex-col ">
+  return <div >
 
-      <div>
+    <div className="com2background ">
 
-      </div>
+    </div>
+      <div className="text-white com2Text">
 
-      <div>
-
-      <h1>
+      <h1 className="font-bold text-2xl">
       Lorem Ipsum
       </h1>
 
